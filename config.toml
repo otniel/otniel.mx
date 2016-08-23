@@ -1,0 +1,29 @@
+baseurl = "https://otniel.mx"
+languageCode = "en-us"
+title = "Otniel's space"
+
+relativeURLs = false
+paginate = 5
+
+[taxonomies]
+    tag = "tags"
+    tutorial = "tutorials"
+
+[params]
+    showglobe = true
+    
+    analytics = "code-here"
+
+    github = "https://github.com/otniel"
+    twitter = "https://twitter.com/otnieelaguilar"
+    linkedin = "https://www.linkedin.com/in/otniel-aguilar"
+    email = "otnieel.aguilar@gmail.com"
+    
+    profilepic = "img/profile.jpg"
+    
+    title = "Otniel Aguilar"
+    subtitle = "Space to get mah shit together"
+    
+    [[params.navlinks]]
+    name = "About"
+    url = "about"
